@@ -1,3 +1,3 @@
 # hello-world
 guide
-this is a experiments with the guide of Github
+this is an experiment with the guide of Github
